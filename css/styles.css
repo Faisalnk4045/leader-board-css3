@@ -122,8 +122,8 @@ hr{
 
 /* Media Queries */
 
-/* mobile device: 688*1280 */
-@media screen and (max-width: 688px) {
+/* mobile device: 720*1280 */
+@media screen and (max-width: 720px) {
     .container{
         width: 90%;
         border-radius: 30px;
